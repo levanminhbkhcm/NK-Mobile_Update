@@ -2,5 +2,9 @@
   "enabled": false,
   "appId": "vn.nkautomation.ahp.mobile.debug",
   "version": "1.0.3",
-  "versionCode": 4
+  "versionCode": 4,
+  "downloadUrl": "https://github.com/levanminhbkhcm/NK-Mobile_Update/releases/download/nk-mobile-debug-v1.0.3/NK-MOBILE-Debug-1.0.3.apk",
+  "sha256": "9c682eded5475137f6c1bc23d1b775189314721d4ab44f92b9ca1778d73c7436",
+  "sizeBytes": 43941592,
+  "releaseNotes": "Chuyển kênh cập nhật sang repo NK-Mobile_Update. Kết nối gateway AHP qua HTTPS trên Wi-Fi nội bộ."
 }
