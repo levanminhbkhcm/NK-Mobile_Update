@@ -1,5 +1,5 @@
 {
-  "enabled": false,
+  "enabled": true,
   "appId": "vn.nkautomation.ahp.mobile.debug",
   "version": "1.0.3",
   "versionCode": 4,
