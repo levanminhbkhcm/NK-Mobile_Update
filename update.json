@@ -1,10 +1,10 @@
 {
   "enabled": true,
   "appId": "vn.nkautomation.ahp.mobile.debug",
-  "version": "1.0.4",
-  "versionCode": 5,
-  "downloadUrl": "https://github.com/levanminhbkhcm/NK-Mobile_Update/releases/download/nk-mobile-debug-v1.0.4/NK-MOBILE-Debug-1.0.4.apk",
-  "sha256": "245cb15bd9de00a1cf260d59181d59ee4fa05adc4f18995899b9af9eaba42d4f",
-  "sizeBytes": 43962072,
-  "releaseNotes": "Thêm mục Máy chủ AHP để kiểm tra và lưu URL gateway HTTPS. Kết nối qua 4G hoặc Wi-Fi bên ngoài cần gateway HTTPS công khai do quản trị viên cung cấp."
+  "version": "1.0.6",
+  "versionCode": 7,
+  "downloadUrl": "https://github.com/levanminhbkhcm/NK-Mobile_Update/releases/download/nk-mobile-debug-v1.0.6/NK-MOBILE-Debug-1.0.6.apk",
+  "sha256": "438716b03285d36f43fa8799b3e41becef0139b861c0a1af46d8bea56021ce2b",
+  "sizeBytes": 51187812,
+  "releaseNotes": "Thêm mục Thử kết nối SQL/MQTT ở màn hình đăng nhập. Kiểm tra được hai cổng 53102 và 53103 ngay trong app. Đăng nhập SQL và đọc MQTT cần tài khoản thử và TLS trên máy chủ."
 }
