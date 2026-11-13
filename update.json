@@ -1,10 +1,10 @@
 {
   "enabled": true,
   "appId": "vn.nkautomation.ahp.mobile.debug",
-  "version": "1.0.3",
-  "versionCode": 4,
-  "downloadUrl": "https://github.com/levanminhbkhcm/NK-Mobile_Update/releases/download/nk-mobile-debug-v1.0.3/NK-MOBILE-Debug-1.0.3.apk",
-  "sha256": "9c682eded5475137f6c1bc23d1b775189314721d4ab44f92b9ca1778d73c7436",
-  "sizeBytes": 43941592,
-  "releaseNotes": "Chuyển kênh cập nhật sang repo NK-Mobile_Update. Kết nối gateway AHP qua HTTPS trên Wi-Fi nội bộ."
+  "version": "1.0.4",
+  "versionCode": 5,
+  "downloadUrl": "https://github.com/levanminhbkhcm/NK-Mobile_Update/releases/download/nk-mobile-debug-v1.0.4/NK-MOBILE-Debug-1.0.4.apk",
+  "sha256": "245cb15bd9de00a1cf260d59181d59ee4fa05adc4f18995899b9af9eaba42d4f",
+  "sizeBytes": 43962072,
+  "releaseNotes": "Thêm mục Máy chủ AHP để kiểm tra và lưu URL gateway HTTPS. Kết nối qua 4G hoặc Wi-Fi bên ngoài cần gateway HTTPS công khai do quản trị viên cung cấp."
 }
