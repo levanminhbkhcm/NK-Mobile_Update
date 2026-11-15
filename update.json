@@ -1,10 +1,10 @@
 {
   "enabled": true,
   "appId": "vn.nkautomation.ahp.mobile.debug",
-  "version": "1.0.6",
-  "versionCode": 7,
-  "downloadUrl": "https://github.com/levanminhbkhcm/NK-Mobile_Update/releases/download/nk-mobile-debug-v1.0.6/NK-MOBILE-Debug-1.0.6.apk",
-  "sha256": "438716b03285d36f43fa8799b3e41becef0139b861c0a1af46d8bea56021ce2b",
-  "sizeBytes": 51187812,
-  "releaseNotes": "Thêm mục Thử kết nối SQL/MQTT ở màn hình đăng nhập. Kiểm tra được hai cổng 53102 và 53103 ngay trong app. Đăng nhập SQL và đọc MQTT cần tài khoản thử và TLS trên máy chủ."
+  "version": "1.0.7",
+  "versionCode": 8,
+  "downloadUrl": "https://github.com/levanminhbkhcm/NK-Mobile_Update/releases/download/nk-mobile-debug-v1.0.7/NK-MOBILE-Debug-1.0.7.apk",
+  "sha256": "d07f4388c6c5e141d56af919a68deca9d225228e5ce66b3d2f754570e7e96d23",
+  "sizeBytes": 51208292,
+  "releaseNotes": "Hỗ trợ đăng nhập trực tiếp qua SQL Server 53102 sau khi quản trị viên cấp cấu hình qua USB. Dùng mục Đăng nhập qua gateway Wi-Fi để mở báo cáo, kho hóa chất và AI Chat."
 }
