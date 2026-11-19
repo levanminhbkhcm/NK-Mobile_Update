@@ -1,10 +1,10 @@
 {
   "enabled": true,
   "appId": "vn.nkautomation.ahp.mobile.debug",
-  "version": "1.0.7",
-  "versionCode": 8,
-  "downloadUrl": "https://github.com/levanminhbkhcm/NK-Mobile_Update/releases/download/nk-mobile-debug-v1.0.7/NK-MOBILE-Debug-1.0.7.apk",
-  "sha256": "d07f4388c6c5e141d56af919a68deca9d225228e5ce66b3d2f754570e7e96d23",
-  "sizeBytes": 51208292,
-  "releaseNotes": "Hỗ trợ đăng nhập trực tiếp qua SQL Server 53102 sau khi quản trị viên cấp cấu hình qua USB. Dùng mục Đăng nhập qua gateway Wi-Fi để mở báo cáo, kho hóa chất và AI Chat."
+  "version": "1.0.8",
+  "versionCode": 9,
+  "downloadUrl": "https://github.com/levanminhbkhcm/NK-Mobile_Update/releases/download/nk-mobile-debug-v1.0.8/NK-MOBILE-Debug-1.0.8.apk",
+  "sha256": "8b5ad61124199d74a7eff04e1e7532270e8de4475e22f57fa9d9db99c6d67ff3",
+  "sizeBytes": 51191908,
+  "releaseNotes": "Đăng nhập bằng tài khoản AHP Online qua máy chủ Internet cài sẵn. Sử dụng được qua 4G và Wi-Fi bên ngoài, không cần cấu hình SQL hay kết nối USB."
 }
